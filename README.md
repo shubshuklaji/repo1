@@ -1,2 +1,2 @@
-# repo1
+# repo2
 first reposatory
